@@ -5,3 +5,5 @@ opencv-python>=4.1.2
 numpy>=1.18.5
 tqdm>=4.41.0
 tensorflow>=2.14.0
+Pillow
+torch
